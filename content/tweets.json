@@ -1,0 +1,501 @@
+[
+  {
+    "type": "single",
+    "content": "Claude Code o Codex? Yo los probé los dos a fondo y la diferencia en como manejan contexto largo es abismal. Ustedes con cual se quedaron?"
+  },
+  {
+    "type": "single",
+    "content": "Codex de OpenAI trabaja en su propio sandbox aislado. Claude Code trabaja directo en tu repo. Parece un detalle menor pero cambia todo el workflow. Cual prefieren?"
+  },
+  {
+    "type": "single",
+    "content": "Me da gracia la gente que dice 'la IA no sirve para programar' y nunca paso de pedirle 'haceme una app'. Dale contexto, estructura, y despues me contas. Que experiencia tuvieron?"
+  },
+  {
+    "type": "single",
+    "content": "Copilot ya quedo muy viejo? Cursor y Claude Code estan en otra liga. Alguno que use Copilot?"
+  },
+  {
+    "type": "single",
+    "content": "El que sigue pensando que necesita saber 5 lenguajes para ser buen dev no entendio nada. Hoy necesitas saber pensar bien, dar contexto y tomar decisiones. El codigo lo escribe la IA. Estan de acuerdo o soy un loco?"
+  },
+  {
+    "type": "single",
+    "content": "Probé Codex para un refactor grande y se fue por las ramas. Lo mismo con Claude Code y lo clavo a la primera. Experiencia personal. A ustedes como les fue?"
+  },
+  {
+    "type": "single",
+    "content": "El dev que sabe vender va a ganar mas guita que el dev que sabe 10 frameworks. Marketing > sintaxis. Me equivoco?"
+  },
+  {
+    "type": "single",
+    "content": "Si tu SaaS no cobra desde el dia 1, no tenes un negocio. Tenes un side project con landing page. Alguien mas aprendio esto por las malas?"
+  },
+  {
+    "type": "single",
+    "content": "3 meses construyendo en silencio vs 1 semana construyendo en publico. El feedback que te da la gente en una semana vale mas que tus 3 meses de suposiciones. Les paso?"
+  },
+  {
+    "type": "single",
+    "content": "Claude Code entiende TODO el contexto de tu proyecto. Codex es mas rapido para tareas puntuales. Son herramientas distintas para momentos distintos. O ustedes usan solo una?"
+  },
+  {
+    "type": "single",
+    "content": "La gente subestima lo dificil que es conseguir los primeros 10 clientes que paguen. Despues de esos 10 todo cambia. Cual fue su experiencia con los primeros usuarios de pago?"
+  },
+  {
+    "type": "single",
+    "content": "Idea de SaaS: no busques la idea perfecta. Busca algo que te moleste a vos todos los dias y resolverlo. Los mejores productos nacen de frustraciones propias. Cual es algo que los tiene podridos y nadie resolvio bien?"
+  },
+  {
+    "type": "single",
+    "content": "Levantar inversion para un MVP es la peor decision que podes tomar. Landing + Stripe + IA para construir = validado en un finde. Piensan distinto?"
+  },
+  {
+    "type": "single",
+    "content": "La velocidad a la que evoluciona el tooling de IA para desarrollo es ridícula. Lo que usaba hace 6 meses ya quedo obsoleto. Como hacen para mantenerse al dia?"
+  },
+  {
+    "type": "single",
+    "content": "No compitas con empresas grandes en features. Competi en velocidad, en atencion personal y en nicho. Un indie hacker rapido le gana a una corp lenta. O no? Discutamos."
+  },
+  {
+    "type": "single",
+    "content": "Tu SaaS no necesita 50 features para lanzar. Necesita 1 que resuelva un dolor real y 10 personas dispuestas a pagar. Todo lo demas es excusa para no lanzar. Cuantas features tenia su producto cuando lanzaron?"
+  },
+  {
+    "type": "single",
+    "content": "Me canse de escuchar 'primero necesito terminar el producto'. No. Primero necesitas un cliente. Despues ves que producto construir. Estan de acuerdo con esto?"
+  },
+  {
+    "type": "single",
+    "content": "Claude Code para arquitectura y decisiones grandes. Cursor para el dia a dia. v0 para UIs rapidas. Ese es mi stack actual de IA. Cual es el de ustedes?"
+  },
+  {
+    "type": "single",
+    "content": "El mejor SaaS que vi este mes lo hizo un solo dev en 2 semanas usando IA. Antes eso era un equipo de 5 durante 3 meses. El juego cambio y muchos no se dieron cuenta. Que opinan?"
+  },
+  {
+    "type": "single",
+    "content": "Pregunta honesta: cuantos side projects tienen abandonados? Yo tengo como 7. El tema no es arrancar, es terminar. Que les funciono para realmente lanzar algo?"
+  },
+  {
+    "type": "single",
+    "content": "La barrera para crear un SaaS en 2025 es basicamente cero. La barrera para conseguir clientes sigue siendo altisima. El problema nunca fue tecnico. Que estrategia de distribucion les funciono?"
+  },
+  {
+    "type": "single",
+    "content": "Vos podes tener el producto mas increible del mundo, pero si nadie lo encuentra, no existe. Distribucion > producto. Pelea me en los comentarios."
+  },
+  {
+    "type": "single",
+    "content": "Codex es async, Claude Code es en tiempo real. Para mi workflow, necesito ver lo que pasa al instante. Pero capaz para equipos grandes el approach async tiene mas sentido? Que opinan?"
+  },
+  {
+    "type": "single",
+    "content": "Los que mas guita hacen en tech no son los que mejor programan. Son los que mejor entienden problemas de negocio. Controversial? Diganme por que estoy equivocado."
+  },
+  {
+    "type": "single",
+    "content": "Si tu startup necesita levantar plata para existir, replanteate el modelo. Los mejores negocios SaaS son rentables desde temprano. O estoy siendo muy simplista?"
+  },
+  {
+    "type": "single",
+    "content": "Un indie hacker con Claude Code construye mas rapido que un equipo de 5 devs con procesos pesados. Suena exagerado? Puede ser. Pero cada vez menos. Que piensan?"
+  },
+  {
+    "type": "single",
+    "content": "La IA no va a reemplazar devs. Va a reemplazar devs que no sepan usar IA. Es una diferencia gigante y muchos la estan ignorando. Ustedes ya la integraron a su workflow?"
+  },
+  {
+    "type": "single",
+    "content": "Pregunta para los que tienen SaaS: cual fue el canal de adquisicion que mejor les funciono? SEO, Twitter, cold outreach, Product Hunt? Cuenten."
+  },
+  {
+    "type": "single",
+    "content": "Micro-SaaS > mega-startup. Menos riesgo, cashflow positivo rapido, sin inversores que te presionen. Alguien mas esta en este camino?"
+  },
+  {
+    "type": "single",
+    "content": "Hot take: la mayoria de los devs subestiman el marketing y sobreestiman el codigo. Tu producto puede ser mediocre con buen marketing y le va a ir mejor que a un producto genial que nadie conoce. Debatan."
+  },
+  {
+    "type": "single",
+    "content": "Construir en publico me dio mas oportunidades que 5 años trabajando en silencio. Pero hay que bancarse mostrar los fracasos tambien. Ustedes muestran todo o solo los wins?"
+  },
+  {
+    "type": "single",
+    "content": "Cada vez que veo a alguien pasar 6 meses planificando sin lanzar nada me acuerdo de mi mismo hace 3 años. El analisis paralisis es real. Como lo superaron?"
+  },
+  {
+    "type": "single",
+    "content": "Claude Code + Cursor es como tener un dev senior 24/7 que nunca se cansa y nunca se queja. La diferencia es que vos tenes que ser el tech lead que sabe que pedir. Estan usando esta combo?"
+  },
+  {
+    "type": "single",
+    "content": "Unpopular opinion: no necesitas saber programar para lanzar un SaaS en 2025. Necesitas saber pensar producto y usar bien las IAs de codigo. Estoy loco o tiene sentido?"
+  },
+  {
+    "type": "single",
+    "content": "El churn rate es el metric mas importante de un SaaS y nadie habla de eso cuando esta empezando. Todos hablan de MRR. Pero si tus usuarios se van, el MRR no sirve. Que metricas miran ustedes primero?"
+  },
+  {
+    "type": "single",
+    "content": "Probé todos los AI coding agents del mercado. Claude Code es el unico que realmente entiende cuando le decis 'refactoriza esto manteniendo la misma interfaz publica'. Codex a veces cambia cosas que no deberia. Les pasa?"
+  },
+  {
+    "type": "single",
+    "content": "Si pudieran empezar un SaaS hoy desde cero, en que nicho se meteran? Estoy buscando ideas y quiero ver que piensa la gente."
+  },
+  {
+    "type": "single",
+    "content": "El dev que entiende negocio es imparable. No porque sea el mejor tecnico, sino porque sabe QUE construir, no solo COMO. Ustedes invierten tiempo en aprender negocio?"
+  },
+  {
+    "type": "single",
+    "content": "Next.js + Supabase + Stripe + Claude Code. Con eso armas un SaaS funcional en un finde. Antes necesitabas un equipo y 3 meses. Que stack usan ustedes para lanzar rapido?"
+  },
+  {
+    "type": "single",
+    "content": "El pricing de tu SaaS es probablemente muy barato. Todos empezamos cobrando poco por miedo a que nadie pague. Pero subir precios suele mejorar todo: revenue, tipo de cliente, soporte. Les paso?"
+  },
+  {
+    "type": "single",
+    "content": "Me cuesta entender a los devs que se niegan a usar IA. Es como un albañil que se niega a usar la grua 'porque antes se hacia a mano'. No es trampa, es evolucion. O me equivoco?"
+  },
+  {
+    "type": "single",
+    "content": "Algo que no se habla: la soledad del indie hacker. Construir solo es poderoso, pero tambien es solitario. Como manejan eso? Tienen comunidad, mastermind, o se la bancan solos?"
+  },
+  {
+    "type": "single",
+    "content": "Codex de OpenAI es bueno para tareas aisladas y definidas. Claude Code brilla cuando necesitas que entienda el contexto completo de un proyecto grande. No son competencia directa, son complementarios. Que piensan?"
+  },
+  {
+    "type": "single",
+    "content": "SEO para SaaS es un juego largo pero cuando arranca es una maquina de leads gratis. Alguien aca hace SEO para su SaaS? Que les funciono?"
+  },
+  {
+    "type": "single",
+    "content": "La diferencia entre un hobby project y un negocio es una: alguien paga. Si nadie paga, no importa que tan bueno sea el producto. Duro pero cierto. O no?"
+  },
+  {
+    "type": "single",
+    "content": "Vi gente lanzar SaaS con landing hecha en v0, backend con Claude Code, y pagos con Stripe. Todo en un finde. Sin saber programar. El mundo cambio y algunos siguen pensando que necesitan un equipo de 10. Ustedes que opinan?"
+  },
+  {
+    "type": "single",
+    "content": "Tu primer SaaS no va a ser el que te haga millonario. Va a ser el que te enseñe todo lo que no sabias que no sabias. Y eso vale mas que cualquier curso. Que aprendieron con su primer producto?"
+  },
+  {
+    "type": "single",
+    "content": "El 90% de las features que planeas no las vas a necesitar. Lanza con lo minimo, escucha al usuario, itera. Suena simple pero pocos lo hacen. Por que creen que cuesta tanto lanzar un MVP real?"
+  },
+  {
+    "type": "single",
+    "content": "Cursor se actualiza cada semana con cosas nuevas. Claude Code saca features constantemente. Codex sigue mejorando. El dev que no se adapta a esta velocidad va a quedar afuera rapido. Exagerado o realista?"
+  },
+  {
+    "type": "single",
+    "content": "Ventas > codigo. Si no podes vender lo que construis, da igual que tan bueno sea. El dev que aprende ventas se vuelve imbatible. Alguien aca aprendio a vender siendo dev? Como fue?"
+  },
+  {
+    "type": "single",
+    "content": "Hot take: el mejor momento para lanzar tu SaaS fue hace 6 meses. El segundo mejor es hoy. Que te esta frenando? Contame en los comentarios."
+  },
+  {
+    "type": "single",
+    "content": "Claude Code maneja hasta 200k tokens de contexto y eso para proyectos grandes es un game changer. Codex todavia no llega a ese nivel. Pero OpenAI va rapido. En 6 meses esto puede ser distinto. Apuestas?"
+  },
+  {
+    "type": "single",
+    "content": "Los mejores fundadores de SaaS que conozco no son los mas tecnicos. Son los que mas hablan con usuarios. Uno tiene calls todos los dias con clientes. Cuanto tiempo por semana le dedican a hablar con usuarios?"
+  },
+  {
+    "type": "single",
+    "content": "Me di cuenta que paso mas tiempo decidiendo que construir que construyendo. Y esa es la parte mas importante. La ejecucion ahora la aceleras con IA. La estrategia no. Les pasa algo parecido?"
+  },
+  {
+    "type": "single",
+    "content": "Build in public es lo mejor que me paso en tech. Pero a veces me pregunto si comparto demasiado o muy poco. Donde esta el limite para ustedes?"
+  },
+  {
+    "type": "single",
+    "content": "Si tu SaaS depende de una sola fuente de trafico, estas en peligro. Google te puede cambiar el algoritmo mañana. Una red social te puede bajar el alcance. Diversifican canales o van all-in en uno?"
+  },
+  {
+    "type": "single",
+    "content": "Escribir codigo ya no es la habilidad mas valiosa. Saber que construir, para quien, y como distribuirlo es lo que separa a los que facturan de los que tienen side projects abandonados. Harsh? Puede ser. Cierto? Tambien."
+  },
+  {
+    "type": "single",
+    "content": "Cada vez que alguien me dice 'mi idea es como Uber pero para...' me muero un poco por dentro. Las buenas ideas de SaaS son aburridas y especificas. Cual es la idea mas 'aburrida' que conozcan y que facture?"
+  },
+  {
+    "type": "single",
+    "content": "El networking en tech no es ir a eventos y repartir tarjetas. Es compartir lo que aprendes, ayudar a otros y construir relaciones reales online. Cual fue la conexion mas valiosa que hicieron en redes?"
+  },
+  {
+    "type": "single",
+    "content": "Unpopular opinion: la mayoria de los SaaS no necesitan un CTO. Necesitan un fundador que sepa usar Claude Code y tenga vision de producto. Demasiado picante?"
+  },
+  {
+    "type": "single",
+    "content": "Me sorprende la cantidad de gente que quiere lanzar un SaaS pero nunca hablo con un potencial cliente. Primero vendelo, despues construilo. Suena al reves pero funciona. Alguien lo hizo asi?"
+  },
+  {
+    "type": "single",
+    "content": "Claude Code te deja trabajar desde tu terminal, con tu setup, en tu repo. Codex te mete en un sandbox separado. Para mi, la integracion nativa gana siempre. Para ustedes que es mas importante?"
+  },
+  {
+    "type": "single",
+    "content": "Tenes un SaaS con 0 usuarios y estas preocupado por la escalabilidad? Para. Primero preocupate por tener 10 usuarios que paguen. Despues hablamos de escala. Me equivoco?"
+  },
+  {
+    "type": "single",
+    "content": "La deuda tecnica esta sobrevalorada como excusa para no lanzar. Si nadie usa tu producto, no tenes deuda tecnica. Tenes un repo de GitHub con 0 estrellas. O no?"
+  },
+  {
+    "type": "single",
+    "content": "Que pasa con los devs que saben todo de tech pero nunca lanzaron nada propio? El conocimiento sin ejecucion es solo informacion. Que los frena? En serio pregunto."
+  },
+  {
+    "type": "single",
+    "content": "Mi mayor aprendizaje este año: el producto no importa tanto como la distribucion. Podes tener el mejor SaaS del mundo, si no lo ve nadie, es como si no existiera. Cual fue su mayor aprendizaje?"
+  },
+  {
+    "type": "single",
+    "content": "Claude Code + Cursor es la combo que le recomiendo a todo el mundo. Pero se que hay gente que prefiere Codex + Copilot. Me explican por que? Genuinamente quiero entender."
+  },
+  {
+    "type": "single",
+    "content": "Un SaaS con 100 usuarios que pagan USD 50/mes son USD 5000/mes. No necesitas millones de usuarios. Necesitas un nicho especifico con un dolor real. Alguien aca facturo su primer dolar online? Conten como fue."
+  },
+  {
+    "type": "single",
+    "content": "Cada vez que veo a alguien gastando 6 meses en un MVP me da ganas de sacudirlo. Lanza en 2 semanas, cobra desde el dia 1, itera con feedback real. Que puede salir mal? Bueno, muchas cosas. Pero aprendes rapido."
+  },
+  {
+    "type": "single",
+    "content": "El cold email bien hecho sigue siendo una de las mejores formas de conseguir clientes B2B para tu SaaS. Pero la mayoria manda emails genericos espantosos. Tienen algun ejemplo de cold email que les funciono?"
+  },
+  {
+    "type": "single",
+    "content": "Prefiero un dev con criterio de producto que un genio tecnico que construye cosas que nadie pidio. Habilidades tecnicas se aprenden. Vision de producto es mas raro. Estan de acuerdo?"
+  },
+  {
+    "type": "single",
+    "content": "Le pregunte a Claude Code que refactorice un modulo completo explicandole la arquitectura objetivo. Lo hizo en 3 minutos. A mano me hubiera llevado 2 horas. Hay gente que todavia piensa que es trampa usar IA para esto?"
+  },
+  {
+    "type": "single",
+    "content": "Scrum para un equipo de 1-3 personas es como usar un camion para ir al kiosco. Kanban simple, un Notion y a construir. Que usan ustedes para organizarse?"
+  },
+  {
+    "type": "single",
+    "content": "Hot take: la mayoria de los cursos de 'como crear un SaaS' son vendidos por gente que nunca tuvo un SaaS exitoso. El unico curso real es lanzar uno y equivocarte. Muy cinico o muy cierto?"
+  },
+  {
+    "type": "single",
+    "content": "Si tuviera que arrancar de cero hoy, no aprenderia un framework. Aprenderia a identificar problemas reales, validar rapido y usar IA para construir. El framework lo aprendo sobre la marcha. Que priorizarian ustedes?"
+  },
+  {
+    "type": "single",
+    "content": "Claude Code acaba de sacar la capacidad de crear sub-agentes y man... cambia todo. Podes orquestar tareas complejas como si tuvieras un equipo. Alguien ya lo esta usando para sus proyectos?"
+  },
+  {
+    "type": "single",
+    "content": "El fracaso en startups es baratísimo comparado con el fracaso en otros rubros. Lo peor que pasa es que perdes tiempo y aprendes un monton. Me explican por que la gente le tiene tanto miedo?"
+  },
+  {
+    "type": "single",
+    "content": "Los indie hackers que mas admiro no son los que facturan millones. Son los que tienen un SaaS chiquito que les da libertad para vivir como quieren. Cual es su definicion de exito?"
+  },
+  {
+    "type": "single",
+    "content": "Codex es open-source. Claude Code es closed-source pero con mejor razonamiento. Cual les importa mas: que sea abierto o que funcione mejor? Debate honesto."
+  },
+  {
+    "type": "single",
+    "content": "Tenes una idea de SaaS? No la guardes. Compartila aca. Te prometo que nadie te la va a robar (y si lo hacen, la ejecucion es lo que vale). Dale, tira tu idea."
+  },
+  {
+    "type": "single",
+    "content": "La diferencia entre un side project y un negocio es que en el negocio haces cosas que no te gustan: soporte, ventas, facturacion, impuestos. Eso es lo que filtra. Cual es la parte que mas odian?"
+  },
+  {
+    "type": "single",
+    "content": "Voy a decir algo que molesta: el problema de tu SaaS no es tecnico. Es que no sabes a quien se lo vendes ni por que deberian pagarte. El tech stack da igual si no tenes market fit. Me equivoco?"
+  },
+  {
+    "type": "single",
+    "content": "Escuche a un VC decir 'el mercado de AI coding agents es winner-takes-all'. Yo creo lo contrario: va a haber uno para cada workflow. Claude Code para razonamiento, Codex para tareas async, Cursor para el IDE. Que piensan?"
+  },
+  {
+    "type": "single",
+    "content": "Si estas esperando que tu producto este 'listo' para lanzar, te tengo una noticia: nunca va a estar listo. Lanza ahora. En serio. Que te esta frenando?"
+  },
+  {
+    "type": "single",
+    "content": "El MRR de un SaaS es adictivo. Cuando ves esos primeros USD 100 recurrentes, te cambia la cabeza. Es la prueba de que alguien valora lo que construiste lo suficiente para pagar todos los meses. A cuanto llegaron con su SaaS?"
+  },
+  {
+    "type": "single",
+    "content": "Recien empieza 2025 y ya probé mas AI tools que en todo 2024. La velocidad es absurda. Cuales son las tools de IA que mas les volaron la cabeza este año?"
+  },
+  {
+    "type": "single",
+    "content": "Hay algo que nadie dice: construir un SaaS es 20% producto y 80% distribucion, soporte y operaciones. Si solo te gusta la parte tecnica, busca un co-founder de negocio. Solos es muy dificil. Alguien tiene co-founder?"
+  },
+  {
+    "type": "single",
+    "content": "Twitter para B2B SaaS es una mina de oro. Pero la mayoria postea contenido generico que no le importa a nadie. Contar tu proceso real es 10x mas poderoso. Que tipo de contenido les funciona mejor para atraer usuarios?"
+  },
+  {
+    "type": "single",
+    "content": "La realidad: la mayoria de los SaaS mueren antes de los USD 1000 MRR. No por el producto, sino porque el fundador se aburre o se frustra. La persistencia es la feature mas importante. Cuanto aguantaron antes de ver traccion?"
+  },
+  {
+    "type": "thread",
+    "content": [
+      "Claude Code vs Codex: los probé a fondo para el mismo proyecto. Aca va mi experiencia honesta 🧵",
+      "1/ Le di a ambos la misma tarea: refactorizar un modulo de autenticacion en un proyecto Next.js grande. Mismo prompt, mismo contexto. Los resultados fueron MUY distintos.",
+      "2/ Claude Code: entendio la arquitectura del proyecto completo, mantuvo las interfaces publicas y toco solo lo necesario. Tiempo: 4 minutos. Resultado: funciono a la primera.",
+      "3/ Codex: buena solucion tecnica pero cambio cosas que no le pedi. Renombro funciones que otros modulos usaban. Tiempo similar pero tuve que corregir 3 cosas despues.",
+      "4/ Mi conclusion: Claude Code gana en proyectos donde el contexto importa. Codex es solido para tareas aisladas y bien definidas. No hay ganador absoluto, depende del caso. Ustedes que experiencia tuvieron?"
+    ]
+  },
+  {
+    "type": "thread",
+    "content": [
+      "Como lance un micro-SaaS en 2 semanas usando solo IA (y lo que aprendi) 🧵",
+      "1/ La idea: un tool simple para un nicho especifico. No voy a decir cual porque no importa. Lo que importa es el proceso. Nacio de una frustracion mia del dia a dia.",
+      "2/ Dia 1-3: valide la idea. Arme una landing con v0, la tire en Twitter y LinkedIn. Le pregunte a gente del nicho si pagarian. 15 personas dijeron que si. Suficiente para arrancar.",
+      "3/ Dia 4-10: construi el MVP con Claude Code + Cursor. Next.js, Supabase, Stripe. Claude Code hizo el 70% del heavy lifting. Yo me concentre en decisiones de producto.",
+      "4/ Dia 11-14: beta con los 15 que dijeron que si. 8 pagaron. USD 29/mes cada uno. Son USD 232/mes. No es un imperio pero es validacion real con plata real.",
+      "5/ La leccion: la IA bajo tanto la barrera tecnica que ahora el cuello de botella es la idea + la distribucion. Si esperan a ser 'expertos' para lanzar, van a esperar toda la vida. Que los frena?"
+    ]
+  },
+  {
+    "type": "thread",
+    "content": [
+      "5 errores que cometi en mi primer SaaS (para que no los cometan ustedes) 🧵",
+      "1/ Construi 3 meses sin hablar con nadie. Cuando lance, descubri que el problema que resolvia no era tan grave como pensaba. Moraleja: habla con gente ANTES de escribir una linea.",
+      "2/ Ofreci todo gratis 'para ganar usuarios'. Resultado: usuarios que nunca iban a pagar y yo quemado dando soporte gratis. Cobren desde el dia 1, en serio.",
+      "3/ Me obsesione con el stack 'perfecto'. Perdi 2 semanas eligiendo entre frameworks cuando cualquiera me servia. El stack no importa si nadie usa tu producto.",
+      "4/ Ignore el marketing. Pense 'si el producto es bueno se vende solo'. Mentira. Nada se vende solo. NADA.",
+      "5/ No medí nada. No sabia de donde venian los usuarios, cuales convertian, cuales se iban. Sin metricas estas ciego. Ustedes que errores cometieron? Los leo."
+    ]
+  },
+  {
+    "type": "thread",
+    "content": [
+      "El estado de los AI coding agents en 2025: mi ranking honesto 🧵",
+      "1/ Claude Code: el mejor para razonamiento y proyectos con mucho contexto. Entiende arquitectura como ningun otro. Debilidad: es closed-source y eso molesta a algunos.",
+      "2/ Codex (OpenAI): excelente para tareas bien definidas y aisladas. El approach async es interesante para equipos. Es open-source y eso suma mucho.",
+      "3/ Cursor: no es un 'agent' puro pero el combo de IDE + IA es imbatible para el dia a dia. Tab completion + Chat + Composer. Es donde vivo.",
+      "4/ GitHub Copilot: el OG. Sigue siendo bueno para autocomplete inline pero se quedo atras vs los demas para tareas complejas. Le quedo grande la competencia.",
+      "5/ La realidad: uso 2-3 de estos TODOS los dias. No es 'cual es mejor' sino 'cual uso para que'. Ustedes como combinan sus herramientas de IA?"
+    ]
+  },
+  {
+    "type": "thread",
+    "content": [
+      "Como valido ideas de SaaS antes de construir (y por que la mayoria lo hace al reves) 🧵",
+      "1/ Paso 1: identifico un problema que tenga yo mismo o que vea en comunidades. No invento problemas. Los encuentro escuchando quejas reales de gente real.",
+      "2/ Paso 2: landing page en 2 horas con v0. Titulo, subtitulo, 3 beneficios, boton de 'Join waitlist' o directamente boton de pago. Sin producto atras.",
+      "3/ Paso 3: la tiro en Twitter, Reddit, LinkedIn, comunidades del nicho. Si en 48 horas no tengo al menos 20 signups, la idea no tiene suficiente pull. Next.",
+      "4/ Paso 4: si hay interes, hablo con 5-10 de los que se anotaron. Les pregunto que esperan, cuanto pagarian, que usan hoy. Esas conversaciones valen oro.",
+      "5/ Recien en el paso 5 toco codigo. Y con Claude Code, el MVP sale en dias, no meses. La parte dificil nunca fue construir. Fue saber QUE construir. A ustedes como les funciona validar?"
+    ]
+  },
+  {
+    "type": "thread",
+    "content": [
+      "Lo que nadie te dice de ser indie hacker (la version sin filtro) 🧵",
+      "1/ La libertad es real. Pero tambien la incertidumbre. No tener jefe es genial hasta que no entra plata por 2 meses y te preguntas si debierias volver a un trabajo fijo.",
+      "2/ La soledad es real. No tenes equipo para festejar wins ni para compartir frustraciones. Necesitas una comunidad o te volves loco. En serio.",
+      "3/ Haces TODO: dev, diseño, marketing, ventas, soporte, facturacion, impuestos. Y la mayoria de esas cosas no te gustan. Pero son necesarias.",
+      "4/ El crecimiento personal es brutal. En 1 año de indie hacking aprendes mas de negocio, ventas y producto que en 5 de empleado. Eso nadie te lo saca.",
+      "5/ Lo haria de nuevo? 100%. Pero mentiria si dijera que es facil. Es la cosa mas dificil que hice. Y la mas gratificante. Alguien mas en este camino? Como la estan pasando?"
+    ]
+  },
+  {
+    "type": "thread",
+    "content": [
+      "Mi stack para lanzar un SaaS rapido en 2025 (y por que elegi cada pieza) 🧵",
+      "1/ Frontend: Next.js + Tailwind + shadcn/ui. Rapido de armar, se ve profesional, y con v0 genero componentes en segundos. No reinvento UI.",
+      "2/ Backend: Supabase. PostgreSQL + Auth + Storage + Realtime. Todo en uno y gratis hasta que tengas traccion. Si necesito algo custom, FastAPI.",
+      "3/ Pagos: Stripe. No hay alternativa real para SaaS. Checkout, subscriptions, customer portal. Todo resuelto en una tarde.",
+      "4/ IA para desarrollo: Claude Code para arquitectura y logica compleja. Cursor para el dia a dia. v0 para interfaces rapidas.",
+      "5/ Deploy: Vercel. Push to deploy, preview deployments, analytics. Zero config. La infra no deberia consumir tu tiempo cuando estas validando.",
+      "Con este stack tengo un MVP deployado en 1-2 semanas. Hace 3 años esto era un equipo de 5 durante meses. Que stack usan ustedes? Me interesa comparar."
+    ]
+  },
+  {
+    "type": "thread",
+    "content": [
+      "Por que la distribucion es mas importante que el producto (y como lo aprendi por las malas) 🧵",
+      "1/ Primer SaaS: producto increíble, 0 usuarios. Nadie lo conocia porque yo no sabia nada de marketing. Lo cerre despues de 6 meses sin revenue.",
+      "2/ Segundo intento: producto bastante mid, pero le meti todo al SEO y a Twitter. En 3 meses tenia mas usuarios que el primero en toda su vida.",
+      "3/ La leccion que me rompio la cabeza: un producto mediocre con buena distribucion le gana a un producto genial sin distribucion. Siempre.",
+      "4/ Ahora arranco al reves. Primero pienso como voy a llegar a los clientes. Despues que les voy a vender. Y al final como lo construyo. El orden importa.",
+      "Alguien mas aprendio esto de la forma dificil? O soy el unico que construyo en silencio pensando que el producto se vendia solo?"
+    ]
+  },
+  {
+    "type": "thread",
+    "content": [
+      "IA para construir productos: lo que funciona, lo que no, y lo que viene 🧵",
+      "1/ Lo que funciona HOY: usar Claude Code y Cursor para acelerar 3-5x el desarrollo. La IA no reemplaza tu juicio pero amplifica tu velocidad. Es real y medible.",
+      "2/ Lo que NO funciona: darle un prompt vago y esperar magia. 'Haceme un SaaS de gestion' no va a dar un buen resultado. Contexto especifico = output especifico.",
+      "3/ Lo que funciona pero nadie habla: usar IA para tareas NO tecnicas. Copywriting, analisis de competencia, responder soporte, brainstorming de features. Es un asistente de negocio, no solo de codigo.",
+      "4/ Lo que viene: agentes que ejecutan tareas completas autonomamente. Claude Code con sub-agentes ya va para alla. Codex con su approach async tambien. En 1 año esto va a ser otra cosa.",
+      "5/ Mi prediccion: en 2026, un solo fundador con las IAs correctas va a poder hacer lo que hoy hace un equipo de 10. Loco? Capaz. Pero viendo la velocidad actual, no tanto. Que piensan?"
+    ]
+  },
+  {
+    "type": "thread",
+    "content": [
+      "Pricing para tu SaaS: todo lo que aprendi despues de cambiar precios 10 veces 🧵",
+      "1/ Tu primer precio va a ser muy bajo. Siempre pasa. Todos tenemos miedo de cobrar. Pero cobrar poco atrae clientes que valoran poco tu producto.",
+      "2/ Pricing basado en valor, no en costo. No importa cuanto te cuesta a vos. Importa cuanto vale para el cliente. Si le ahorrás 10 horas por mes, USD 50/mes es regalado.",
+      "3/ Tres planes es el sweet spot: Starter, Pro, Enterprise. El de en medio es el que van a comprar la mayoria. El caro existe para que el del medio parezca razonable.",
+      "4/ Subi los precios y fijate que pasa. En serio. La mayoria de las veces no pasa nada. Los que se van por precio nunca fueron buenos clientes.",
+      "5/ Freemium suena lindo pero para un indie hacker es veneno. Mil usuarios gratis que te consumen soporte y cero revenue. Mejor free trial de 14 dias. Alguien tiene otro approach que le funcione?"
+    ]
+  },
+  {
+    "type": "thread",
+    "content": [
+      "Como uso Claude Code en mi dia a dia (workflow real, no teoria) 🧵",
+      "1/ Mañana: abro la terminal, le explico que tengo que hacer hoy. Le doy contexto del proyecto, de los cambios recientes, de lo que quiero lograr. Como briefear a un dev senior.",
+      "2/ Para features nuevas: le describo la feature, le digo que archivos mirar, que patron seguir. Reviso lo que propone antes de que ejecute. Pienso > ejecuto.",
+      "3/ Para debugging: le paso el error, le digo que ya probe, y le pido que investigue. El 80% de las veces encuentra el problema en el primer intento. Brutal.",
+      "4/ Para refactoring: le explico la arquitectura objetivo y le digo que mantenga las interfaces publicas. Funciona increible para esto. Mucho mejor que hacerlo manual.",
+      "5/ Lo que NO le delego: decisiones de producto, arquitectura de alto nivel, y que features construir. Eso es tuyo. La IA ejecuta, vos decidís. Ustedes como lo usan?"
+    ]
+  },
+  {
+    "type": "thread",
+    "content": [
+      "Startups que parecen aburridas pero facturan millones (y que podemos aprender de ellas) 🧵",
+      "1/ Un SaaS que genera PDFs de facturas para empresas. Suena aburridisimo? Factura USD 2M/año. Porque resuelve un dolor real de un nicho con plata.",
+      "2/ Una herramienta de scheduling para clinicas. Nada sexy. Pero cada clinica paga USD 200/mes y hay miles. Do the math.",
+      "3/ Software de gestion de inventario para restaurantes. El fundador odiaba Excel y construyo algo mejor. Ahora tiene 500 restaurantes pagando.",
+      "4/ La leccion: los nichos aburridos tienen menos competencia, clientes que pagan bien y problemas claros. Deja de buscar 'la proxima red social' y busca problemas reales.",
+      "5/ Cual es el SaaS mas 'aburrido' que conocen y que facture bien? Me interesan las ideas que la mayoria descartaria."
+    ]
+  },
+  {
+    "type": "thread",
+    "content": [
+      "El cambio mas grande en tech este año no es un modelo nuevo. Es esto 🧵",
+      "1/ Hace 2 años: 'La IA va a reemplazar a los programadores'. Todos asustados. Hot takes apocalipticos por todos lados.",
+      "2/ Hoy: la IA no reemplazo a nadie. Pero los devs que la usan bien producen 3-5x mas. La brecha entre los que adoptaron y los que no es cada vez mas grande.",
+      "3/ El cambio real: el costo de construir software bajo drasticamente. Lo que antes necesitaba un equipo y capital ahora lo hace una persona con Claude Code en un finde.",
+      "4/ La consecuencia: hay mas competencia que nunca. Lanzar es facil. Ganar es dificil. El diferenciador ya no es tecnico. Es distribucion, nicho y ejecucion.",
+      "5/ Mi take: estamos entrando en la era donde las ideas + distribucion valen mas que la ejecucion tecnica. Y eso democratiza todo. Estan de acuerdo o es muy utopico?"
+    ]
+  }
+]
