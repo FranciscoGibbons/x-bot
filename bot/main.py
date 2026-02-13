@@ -16,15 +16,16 @@ def main():
     access_token = get_access_token(client_id, client_secret)
 
     index, tweet = get_next_tweet()
-    tweet_type = tweet["type"]
+
+    # Saltear hilos por ahora
+    while tweet["type"] == "thread":
+        print(f"Salteando hilo (indice {index})")
+        mark_as_posted(index)
+        index, tweet = get_next_tweet()
+
     content = tweet["content"]
-
-    print(f"Tweet seleccionado (indice {index}, tipo: {tweet_type})")
-
-    if tweet_type == "thread":
-        post_thread(access_token, content)
-    else:
-        post_tweet(access_token, content)
+    print(f"Tweet seleccionado (indice {index})")
+    post_tweet(access_token, content)
 
     mark_as_posted(index)
     print("State actualizado correctamente.")
