@@ -1,30 +1,6 @@
 [
   {
     "type": "single",
-    "content": "stop learning frameworks\n\nstart learning how to sell\n\nthe money is not in the code"
-  },
-  {
-    "type": "single",
-    "content": "your SaaS doesn't need 50 features\n\nit needs 1 feature and 10 paying users\n\nship it"
-  },
-  {
-    "type": "single",
-    "content": "\"I need a co-founder to start\"\n\nno you don't\n\nyou need Claude Code and a credit card for Stripe"
-  },
-  {
-    "type": "single",
-    "content": "junior devs mass applying to jobs\n\nsenior devs mass prompting AI agents\n\nwe are not the same"
-  },
-  {
-    "type": "single",
-    "content": "stop building in silence for 6 months\n\nstart building in public for 6 days\n\nthe feedback will save you"
-  },
-  {
-    "type": "single",
-    "content": "the best code\n\nis the code you mass delete after launch\n\nbecause nobody needed that feature"
-  },
-  {
-    "type": "single",
     "content": "deja de buscar la idea perfecta\n\nagarra algo que te moleste todos los dias\n\ny resolvelo\n\nasi de simple"
   },
   {
@@ -45,31 +21,7 @@
   },
   {
     "type": "single",
-    "content": "stop building mobile apps\n\nstart building desktop apps\n\ntrust me"
-  },
-  {
-    "type": "single",
-    "content": "\"what tech stack should I use\"\n\nthe one that lets you ship this week\n\nnot the one Twitter told you is cool"
-  },
-  {
-    "type": "single",
-    "content": "your product is not too early to launch\n\nyou are too scared to launch it\n\ndifferent problems"
-  },
-  {
-    "type": "single",
-    "content": "built a SaaS in a weekend with AI\n\nspent 3 months trying to get 10 users\n\nthe hard part was never the code"
-  },
-  {
-    "type": "single",
     "content": "el 90% de las features que planeas\n\nnadie las va a usar\n\nlanza con lo minimo\n\nescucha\n\nitera"
-  },
-  {
-    "type": "single",
-    "content": "stop watching tutorials\n\nstart building something ugly that works\n\nrefactor later\n\nor never"
-  },
-  {
-    "type": "single",
-    "content": "Copilot autocompletes lines\n\nClaude Code refactors entire modules\n\nthey are not the same tool\n\nstop comparing them"
   },
   {
     "type": "single",
@@ -77,27 +29,7 @@
   },
   {
     "type": "single",
-    "content": "the best marketing strategy for devs\n\nbuild in public\n\nthat's it\n\nthat's the tweet"
-  },
-  {
-    "type": "single",
-    "content": "raised $2M for an app\n\none dev with Claude Code built the same thing in a weekend\n\nthe game changed and VCs didn't notice"
-  },
-  {
-    "type": "single",
-    "content": "you don't need a CS degree\n\nyou don't need 5 years of experience\n\nyou need a problem worth solving\n\nand the discipline to ship"
-  },
-  {
-    "type": "single",
     "content": "la deuda tecnica esta sobrevalorada\n\nsi nadie usa tu producto\n\nno tenes deuda tecnica\n\ntenes un repo con 0 estrellas"
-  },
-  {
-    "type": "single",
-    "content": "every dev wants to build the next big thing\n\nthe devs making money\n\nare building boring invoice tools for dentists"
-  },
-  {
-    "type": "single",
-    "content": "\"AI will replace developers\"\n\nno it won't\n\nit will replace developers who refuse to use AI\n\nbig difference"
   },
   {
     "type": "single",
@@ -105,23 +37,7 @@
   },
   {
     "type": "single",
-    "content": "stop optimizing for scale\n\nyou have 0 users\n\noptimize for getting 1"
-  },
-  {
-    "type": "single",
-    "content": "Cursor for daily coding\n\nClaude Code for architecture\n\nv0 for quick UIs\n\nthat's the stack\n\nstop overthinking it"
-  },
-  {
-    "type": "single",
     "content": "tu primer SaaS no te va a hacer millonario\n\npero te va a ensenar todo lo que no sabias que no sabias\n\ny eso vale mas que cualquier curso"
-  },
-  {
-    "type": "single",
-    "content": "a mediocre product with great distribution\n\nbeats\n\na great product that nobody knows exists\n\nevery single time"
-  },
-  {
-    "type": "single",
-    "content": "I mass deleted 2000 lines of code today\n\nproduct works better now\n\nless is more is not just a saying"
   },
   {
     "type": "single",
@@ -129,23 +45,7 @@
   },
   {
     "type": "single",
-    "content": "freemium is a trap for indie hackers\n\n1000 free users eating your support time\n\n0 revenue\n\njust charge from day 1"
-  },
-  {
-    "type": "single",
-    "content": "the dev who mass ships\n\nbeats the dev who mass plans\n\nevery time"
-  },
-  {
-    "type": "single",
     "content": "si pudiera volver 3 anos atras\n\nno aprenderia un framework\n\naprenderia a vender\n\nel framework lo aprendo sobre la marcha"
-  },
-  {
-    "type": "single",
-    "content": "your startup doesn't need\n\na Notion workspace\na Slack channel\na project manager\na sprint board\n\nit needs customers"
-  },
-  {
-    "type": "single",
-    "content": "hot take:\n\nmost \"how to build a SaaS\" courses\n\nare sold by people who never built a successful SaaS\n\nthe only real course is shipping one and failing"
   },
   {
     "type": "single",
@@ -153,19 +53,7 @@
   },
   {
     "type": "single",
-    "content": "stop asking \"is this idea good enough\"\n\nstart asking \"will someone pay for this today\"\n\nif yes ship it\n\nif no next idea"
-  },
-  {
-    "type": "single",
     "content": "un SaaS con 100 usuarios a USD 50/mes\n\nson USD 5000/mes\n\nno necesitas millones de usuarios\n\nnecesitas un nicho con un dolor real"
-  },
-  {
-    "type": "single",
-    "content": "I mass prompt AI all day\n\nand mass ship features all night\n\nthis is the indie hacker way"
-  },
-  {
-    "type": "single",
-    "content": "3 months building in silence\n\nvs\n\n1 week building in public\n\nthe feedback from 1 week\n\nis worth more than 3 months of assumptions"
   },
   {
     "type": "single",
@@ -177,27 +65,7 @@
   },
   {
     "type": "single",
-    "content": "unpopular opinion:\n\nyou don't need to know how to code to launch a SaaS in 2025\n\nyou need to know how to think product\n\nand how to use AI"
-  },
-  {
-    "type": "single",
-    "content": "cold email done right\n\nis still the best B2B acquisition channel\n\nbut most people send garbage\n\nso they think it doesn't work"
-  },
-  {
-    "type": "single",
     "content": "los que mas facturan en tech\n\nno son los que mejor programan\n\nson los que mejor entienden problemas de negocio\n\ncontroversial? puede ser\n\ncierto? tambien"
-  },
-  {
-    "type": "single",
-    "content": "stop chasing VC money\n\nstart chasing 10 paying customers\n\none of these makes you rich\n\nthe other makes you an employee with extra steps"
-  },
-  {
-    "type": "single",
-    "content": "every developer has 7 abandoned side projects\n\nthe problem is not starting\n\nthe problem is finishing\n\nalways has been"
-  },
-  {
-    "type": "single",
-    "content": "pricing tip:\n\nyour SaaS is too cheap\n\nraise prices\n\nwatch what happens\n\n(nothing bad)"
   },
   {
     "type": "single",
@@ -205,19 +73,7 @@
   },
   {
     "type": "single",
-    "content": "Claude Code understands your entire codebase\n\nCodex works in an isolated sandbox\n\nseems like a small detail\n\nit changes everything"
-  },
-  {
-    "type": "single",
-    "content": "the best time to launch your SaaS\n\nwas 6 months ago\n\nthe second best time\n\nis today\n\nstop waiting"
-  },
-  {
-    "type": "single",
     "content": "\"la IA no sirve para programar\"\n\n- alguien que escribio \"haceme una app\" y se enojo con el resultado\n\ndale contexto y despues me contas"
-  },
-  {
-    "type": "single",
-    "content": "distribution > product\n\nyou can have the best product in the world\n\nif nobody finds it\n\nit doesn't exist"
   },
   {
     "type": "single",
@@ -225,15 +81,7 @@
   },
   {
     "type": "single",
-    "content": "SEO for SaaS is a long game\n\nbut when it kicks in\n\nit's a free lead machine that never sleeps\n\nstart writing today"
-  },
-  {
-    "type": "single",
     "content": "analisis paralisis\n\n6 meses pensando\n\n0 lineas de codigo\n\n0 clientes\n\n0 revenue\n\nsuena conocido?"
-  },
-  {
-    "type": "single",
-    "content": "a solo dev mass shipping with AI\n\nbuilds faster than\n\na team of 5 with daily standups\n\nI will not be taking questions"
   },
   {
     "type": "single",
@@ -241,19 +89,7 @@
   },
   {
     "type": "single",
-    "content": "the barrier to building a SaaS in 2025\n\nis basically zero\n\nthe barrier to getting customers\n\nis still massive\n\nthe problem was never technical"
-  },
-  {
-    "type": "single",
-    "content": "micro-SaaS > mega-startup\n\nless risk\n\npositive cashflow fast\n\nno investors breathing down your neck\n\nfreedom"
-  },
-  {
-    "type": "single",
     "content": "el networking en tech\n\nno es ir a eventos y repartir tarjetas\n\nes compartir lo que aprendes\n\nayudar a otros\n\ny construir relaciones reales online"
-  },
-  {
-    "type": "single",
-    "content": "\"what if someone steals my idea\"\n\nnobody wants your idea\n\nthey can barely execute their own\n\njust build it"
   },
   {
     "type": "single",
@@ -261,19 +97,7 @@
   },
   {
     "type": "single",
-    "content": "your MVP does not need:\n\ndark mode\n\ni18n\n\nmicroservices\n\nkubernetes\n\nyour MVP needs:\n\n1 user who pays"
-  },
-  {
-    "type": "single",
-    "content": "the AI coding tools landscape in 2025:\n\nClaude Code for reasoning\nCodEx for async tasks\nCursor for the IDE\n\nthere's no winner-takes-all\n\nthere's one for each workflow"
-  },
-  {
-    "type": "single",
     "content": "hot take:\n\nla mayoria de los SaaS no necesitan un CTO\n\nnecesitan un fundador con vision de producto\n\nque sepa usar Claude Code"
-  },
-  {
-    "type": "single",
-    "content": "I mass deleted features last week\n\nchurn went down\n\nsometimes less product = better product"
   },
   {
     "type": "single",
@@ -281,19 +105,7 @@
   },
   {
     "type": "single",
-    "content": "Twitter for B2B SaaS\n\nis a gold mine\n\nbut most people post generic content nobody cares about\n\nshare your real process\n\nthat's 10x more powerful"
-  },
-  {
-    "type": "single",
     "content": "el churn rate es la metrica mas importante de un SaaS\n\ny nadie habla de eso cuando empieza\n\ntodos hablan de MRR\n\npero si tus usuarios se van\n\nel MRR no sirve"
-  },
-  {
-    "type": "single",
-    "content": "stop debating tabs vs spaces\n\nstart debating how to get your first paying customer\n\nthat's the only debate that matters"
-  },
-  {
-    "type": "single",
-    "content": "shipped a feature nobody asked for: 2 weeks\n\nshipped a feature users begged for: 2 hours\n\nguess which one moved the needle"
   },
   {
     "type": "single",
@@ -301,19 +113,7 @@
   },
   {
     "type": "single",
-    "content": "I mass prompt\n\nI mass ship\n\nI mass iterate\n\nthis is the way"
-  },
-  {
-    "type": "single",
     "content": "vos podes tener el producto mas increible del mundo\n\npero si nadie lo encuentra\n\nno existe\n\ndistribucion > producto\n\nsiempre"
-  },
-  {
-    "type": "single",
-    "content": "the tooling for AI coding evolves so fast\n\nwhat I used 6 months ago is already obsolete\n\nif you're not adapting weekly\n\nyou're falling behind"
-  },
-  {
-    "type": "single",
-    "content": "don't compete with big companies on features\n\ncompete on speed\n\non personal attention\n\non niche\n\na fast indie hacker beats a slow corp\n\nalways"
   },
   {
     "type": "single",
@@ -321,23 +121,7 @@
   },
   {
     "type": "single",
-    "content": "your CI/CD pipeline has 47 steps\n\nyour product has 0 users\n\npriorities"
-  },
-  {
-    "type": "single",
-    "content": "the first $100 in MRR\n\nhits different\n\nit's proof that someone values what you built\n\nenough to pay every month\n\nchase that feeling"
-  },
-  {
-    "type": "single",
     "content": "el fracaso en startups es baratisimo\n\nlo peor que pasa es que perdes tiempo y aprendes un monton\n\nno entiendo por que la gente le tiene tanto miedo"
-  },
-  {
-    "type": "single",
-    "content": "Claude Code with sub-agents\n\nis like having a dev team that never sleeps\n\nnever complains\n\nand never asks for equity\n\nthe future is wild"
-  },
-  {
-    "type": "single",
-    "content": "most SaaS die before $1k MRR\n\nnot because of the product\n\nbut because the founder got bored\n\npersistence is the ultimate feature"
   },
   {
     "type": "single",
@@ -345,19 +129,7 @@
   },
   {
     "type": "single",
-    "content": "you mass mass mass apply to jobs\n\nor\n\nyou mass mass mass ship products\n\nchoose your grind"
-  },
-  {
-    "type": "single",
-    "content": "Codex is open source\n\nClaude Code has better reasoning\n\nwhich matters more to you\n\nopenness or results\n\nhonest debate"
-  },
-  {
-    "type": "single",
     "content": "hay algo que nadie dice:\n\nconstruir un SaaS es 20% producto\n\ny 80% distribucion, soporte y operaciones\n\nsi solo te gusta la parte tecnica\n\nbusca un co-founder de negocio"
-  },
-  {
-    "type": "single",
-    "content": "the dev who mass ships ugly MVPs\n\nlearns more in 1 month\n\nthan the dev who mass reads documentation for a year"
   },
   {
     "type": "single",
@@ -365,19 +137,7 @@
   },
   {
     "type": "single",
-    "content": "I mass refactored an entire auth module with Claude Code\n\n4 minutes\n\nfirst try\n\nno broken interfaces\n\ntry doing that manually"
-  },
-  {
-    "type": "single",
-    "content": "the indie hackers I admire most\n\ndon't make millions\n\nthey make enough to live on their own terms\n\nthat's the real flex"
-  },
-  {
-    "type": "single",
     "content": "me di cuenta que paso mas tiempo decidiendo que construir\n\nque construyendo\n\ny esa es la parte mas importante\n\nla ejecucion la aceleras con IA\n\nla estrategia no"
-  },
-  {
-    "type": "single",
-    "content": "stop mass saving bookmarks about productivity\n\nstart mass shipping the thing you've been \"planning\"\n\nyour bookmarks won't build your SaaS"
   },
   {
     "type": "single",
@@ -385,18 +145,6 @@
   },
   {
     "type": "single",
-    "content": "every time someone spends 6 months planning without launching\n\nI remember myself 3 years ago\n\nanalysis paralysis is real\n\nand it's expensive"
-  },
-  {
-    "type": "single",
     "content": "cada vez que alguien me dice\n\n\"mi idea es como Uber pero para...\"\n\nme muero un poco por dentro\n\nlas buenas ideas de SaaS son aburridas y especificas"
-  },
-  {
-    "type": "single",
-    "content": "your SaaS pricing is probably too cheap\n\nraise it\n\nyou'll get better customers\n\nless churn\n\nmore revenue\n\nit's that simple"
-  },
-  {
-    "type": "single",
-    "content": "Claude Code + Cursor\n\nis like having a senior dev 24/7\n\nthat never gets tired\n\nand never complains\n\nbut YOU have to be the tech lead\n\nthat's the catch"
   }
 ]
